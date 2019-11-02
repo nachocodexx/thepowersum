@@ -12,31 +12,20 @@
     "start": "node ./dist/bundle"
   },
   "devDependencies": {
-    "@types/async": "^2.0.49",
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.6",
     "@types/node": "^11.9.0",
     "chai": "^4.2.0",
-    "html-webpack-plugin": "^3.2.0",
     "mocha": "^6.0.2",
     "nodemon": "^1.18.4",
     "reflect-metadata": "^0.1.12",
-    "supertest": "^3.1.0",
-    "ts-jest": "^23.1.4",
     "ts-loader": "^5.0.0",
     "ts-node": "^7.0.1",
     "ts-node-dev": "^1.0.0-pre.43",
     "typescript": "^3.0.3",
-    "typescript-ioc": "^1.2.4",
     "webpack": "^4.17.2",
     "webpack-cli": "^3.1.0",
     "webpack-node-externals": "^1.7.2"
   },
-  "dependencies": {
-    "acorn": "^6.1.1",
-    "async": "^2.6.1",
-    "otplib": "^11.0.1",
-    "probability-node": "0.0.1",
-    "rxjs": "^6.5.2"
-  }
+  "dependencies": {}
 }
